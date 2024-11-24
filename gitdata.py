@@ -301,7 +301,7 @@ if __name__ == "__main__":
 
     # Step 5: Write the updated SVG content to a file
     updated_svg_content = ET.tostring(updated_svg_root, encoding="unicode")
-    with open("updated_profile.svg", "w", encoding="utf-8") as file:
+    with open("light_mode.svg", "w", encoding="utf-8") as file:
         file.write(updated_svg_content)
 
     print("SVG updated and saved as 'light_mode.svg'.")

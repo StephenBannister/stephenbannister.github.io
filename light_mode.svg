@@ -1,65 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1105px" height="550px" font-size="16px">
-<style>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1105px" height="550px" font-size="16px">
+<ns0:style>
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
-</style>
+</ns0:style>
 
-<rect width="1100px" height="530px" fill="#f6f8fa" rx="15"/>
+<ns0:rect width="1100px" height="530px" fill="#f6f8fa" rx="15" />
 
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                ..-+#@@@@@@%*+-..                   </tspan>
-<tspan x="15" y="50">              ..=%@@@@@@@@@@@@@#-..                 </tspan>
-<tspan x="15" y="70">             .-#@@@@@@@@@@@@@@@@@*:.                </tspan>
-<tspan x="15" y="90">            .=%@@@@@@%%%##*****#%%*..               </tspan>
-<tspan x="15" y="110">            -%@@@#**+++=========+#%=.              </tspan>
-<tspan x="15" y="130">            .*@@@#*+++++==========+%*.             </tspan>
-<tspan x="15" y="150">            .#@@@#++++++===========%=.             </tspan>
-<tspan x="15" y="170">           ..#@@#+*#*****++=++**+++*:.             </tspan>
-<tspan x="15" y="190">           .=*%%*+**##%##*+++*##*+=+*:             </tspan>
-<tspan x="15" y="210">           .+**#+++++*****+++++++===+-             </tspan>
-<tspan x="15" y="230">           .-+***+++++++**+++++======:             </tspan>
-<tspan x="15" y="250">            .:=*****+++****+++++====-.             </tspan>
-<tspan x="15" y="270">              .+**************+++++-               </tspan>
-<tspan x="15" y="290">               -*************+**+++:               </tspan>
-<tspan x="15" y="310">               .*##****++***++++++-.               </tspan>
-<tspan x="15" y="330">               .=#####****++++***-.                </tspan>
-<tspan x="15" y="350">              .:=*##%%##********:.                 </tspan>
-<tspan x="15" y="370">            .-%*==+**#######**+=..                 </tspan>
-<tspan x="15" y="390">         ..:*@@%+===++**+++++++-=:..               </tspan>
-<tspan x="15" y="410">      ..:+#@@@@@#====--=++++++--*@%*=-..           </tspan>
-<tspan x="15" y="430">   ...=#@@@@@@@@@#+==----+*#*++=+@@@@@@#+-....     </tspan>
-<tspan x="15" y="450"> .-+#@@@@@@@@@@@@@#+==+*####****+@@@@@@@@@@%#+-..  </tspan>
-<tspan x="15" y="470"> %@@@@@@@@@@@@@@@@@*+=++*####*+=-+@@@@@@@@@@@@@+.  </tspan>
-<tspan x="15" y="490"> %@@@@@@@@@@@@@@@@@%*++++*#%#*+=-=#@@@@@@@@@@@@@-. </tspan>
-<tspan x="15" y="510"> +******************=---===++==-::-*************-. </tspan>
-</text>
+<ns0:text x="15" y="30" fill="#24292f" class="ascii">
+<ns0:tspan x="15" y="30">                ..-+#@@@@@@%*+-..                   </ns0:tspan>
+<ns0:tspan x="15" y="50">              ..=%@@@@@@@@@@@@@#-..                 </ns0:tspan>
+<ns0:tspan x="15" y="70">             .-#@@@@@@@@@@@@@@@@@*:.                </ns0:tspan>
+<ns0:tspan x="15" y="90">            .=%@@@@@@%%%##*****#%%*..               </ns0:tspan>
+<ns0:tspan x="15" y="110">            -%@@@#**+++=========+#%=.              </ns0:tspan>
+<ns0:tspan x="15" y="130">            .*@@@#*+++++==========+%*.             </ns0:tspan>
+<ns0:tspan x="15" y="150">            .#@@@#++++++===========%=.             </ns0:tspan>
+<ns0:tspan x="15" y="170">           ..#@@#+*#*****++=++**+++*:.             </ns0:tspan>
+<ns0:tspan x="15" y="190">           .=*%%*+**##%##*+++*##*+=+*:             </ns0:tspan>
+<ns0:tspan x="15" y="210">           .+**#+++++*****+++++++===+-             </ns0:tspan>
+<ns0:tspan x="15" y="230">           .-+***+++++++**+++++======:             </ns0:tspan>
+<ns0:tspan x="15" y="250">            .:=*****+++****+++++====-.             </ns0:tspan>
+<ns0:tspan x="15" y="270">              .+**************+++++-               </ns0:tspan>
+<ns0:tspan x="15" y="290">               -*************+**+++:               </ns0:tspan>
+<ns0:tspan x="15" y="310">               .*##****++***++++++-.               </ns0:tspan>
+<ns0:tspan x="15" y="330">               .=#####****++++***-.                </ns0:tspan>
+<ns0:tspan x="15" y="350">              .:=*##%%##********:.                 </ns0:tspan>
+<ns0:tspan x="15" y="370">            .-%*==+**#######**+=..                 </ns0:tspan>
+<ns0:tspan x="15" y="390">         ..:*@@%+===++**+++++++-=:..               </ns0:tspan>
+<ns0:tspan x="15" y="410">      ..:+#@@@@@#====--=++++++--*@%*=-..           </ns0:tspan>
+<ns0:tspan x="15" y="430">   ...=#@@@@@@@@@#+==----+*#*++=+@@@@@@#+-....     </ns0:tspan>
+<ns0:tspan x="15" y="450"> .-+#@@@@@@@@@@@@@#+==+*####****+@@@@@@@@@@%#+-..  </ns0:tspan>
+<ns0:tspan x="15" y="470"> %@@@@@@@@@@@@@@@@@*+=++*####*+=-+@@@@@@@@@@@@@+.  </ns0:tspan>
+<ns0:tspan x="15" y="490"> %@@@@@@@@@@@@@@@@@%*++++*#%#*+=-=#@@@@@@@@@@@@@-. </ns0:tspan>
+<ns0:tspan x="15" y="510"> +******************=---===++==-::-*************-. </ns0:tspan>
+</ns0:text>
 
-<text x="470" y="30" fill="#24292f">
-<tspan x="470" y="30">stephen@bannister</tspan>
-<tspan x="470" y="50">——————</tspan>
-<tspan x="470" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, iOS</tspan>
-<tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">48 years plus a few days</tspan>
-<tspan x="470" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Sheffield Hallam University</tspan>
-<tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">MSc Computer Science with Artificial Intelligence</tspan>
-<tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.2</tspan>
-<tspan x="470" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python</tspan>
-<tspan x="470" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
-<tspan x="470" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English</tspan>
-<tspan x="470" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Neural Networks, Social Media Tools</tspan>
-<tspan x="470" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Raspberry Pi Builds, High Performance PC Builds</tspan>
-<tspan x="470" y="330" class="keyColor">Contact</tspan>:
-<tspan x="470" y="350">——————</tspan>
-<tspan x="470" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">stephen@piroma.co.uk</tspan>
-<tspan x="470" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">smbannister</tspan>
-<tspan x="470" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">nope</tspan>
-<tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="470" y="470">——————</tspan>
-<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">TBC</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">TBC</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">TBC  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">TBC</tspan>
-<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">TBC </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">TBC</tspan> (<tspan class="addColor">TBC++</tspan>, <tspan class="delColor">TBC--</tspan>)
-</text>
+<ns0:text x="470" y="30" fill="#24292f">
+<ns0:tspan x="470" y="30">stephen@bannister</ns0:tspan>
+<ns0:tspan x="470" y="50">——————</ns0:tspan>
+<ns0:tspan x="470" y="70" class="keyColor">OS</ns0:tspan>: <ns0:tspan class="valueColor">Windows 11 Pro, iOS</ns0:tspan>
+<ns0:tspan x="470" y="90" class="keyColor">Uptime</ns0:tspan>: <ns0:tspan class="valueColor">48 years, 3 months</ns0:tspan>
+<ns0:tspan x="470" y="110" class="keyColor">Host</ns0:tspan>: <ns0:tspan class="valueColor">Sheffield Hallam University</ns0:tspan>
+<ns0:tspan x="470" y="130" class="keyColor">Kernel</ns0:tspan>: <ns0:tspan class="valueColor">MSc Computer Science with Artificial Intelligence</ns0:tspan>
+<ns0:tspan x="470" y="150" class="keyColor">IDE</ns0:tspan>: <ns0:tspan class="valueColor">VS Code version 1.95.3</ns0:tspan>
+<ns0:tspan x="470" y="190" class="keyColor">Languages</ns0:tspan>.<ns0:tspan class="keyColor">Programming</ns0:tspan>: <ns0:tspan class="valueColor">Python</ns0:tspan>
+<ns0:tspan x="470" y="210" class="keyColor">Languages</ns0:tspan>.<ns0:tspan class="keyColor">Computer</ns0:tspan>: <ns0:tspan class="valueColor">HTML, CSS</ns0:tspan>
+<ns0:tspan x="470" y="230" class="keyColor">Languages</ns0:tspan>.<ns0:tspan class="keyColor">Real</ns0:tspan>: <ns0:tspan class="valueColor">English</ns0:tspan>
+<ns0:tspan x="470" y="270" class="keyColor">Hobbies</ns0:tspan>.<ns0:tspan class="keyColor">Software</ns0:tspan>: <ns0:tspan class="valueColor">Neural Networks, Social Media Tools</ns0:tspan>
+<ns0:tspan x="470" y="290" class="keyColor">Hobbies</ns0:tspan>.<ns0:tspan class="keyColor">Hardware</ns0:tspan>: <ns0:tspan class="valueColor">Raspberry Pi Builds, High Performance PC Builds</ns0:tspan>
+<ns0:tspan x="470" y="330" class="keyColor">Contact</ns0:tspan>:
+<ns0:tspan x="470" y="350">——————</ns0:tspan>
+<ns0:tspan x="470" y="370" class="keyColor">Email</ns0:tspan>: <ns0:tspan class="valueColor">stephen@piroma.co.uk</ns0:tspan>
+<ns0:tspan x="470" y="390" class="keyColor">LinkedIn</ns0:tspan>: <ns0:tspan class="valueColor">smbannister</ns0:tspan>
+<ns0:tspan x="470" y="410" class="keyColor">Discord</ns0:tspan>: <ns0:tspan class="valueColor">nope</ns0:tspan>
+<ns0:tspan x="470" y="450" class="keyColor">GitHub Stats</ns0:tspan>:
+<ns0:tspan x="470" y="470">——————</ns0:tspan>
+<ns0:tspan x="470" y="490" class="keyColor">Repos</ns0:tspan>: <ns0:tspan class="valueColor">1</ns0:tspan> {<ns0:tspan class="keyColor">Contributed</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan>} | <ns0:tspan class="keyColor">Commits</ns0:tspan>: <ns0:tspan class="valueColor">30</ns0:tspan> | <ns0:tspan class="keyColor">Stars</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan>
+<ns0:tspan x="470" y="510" class="keyColor">Followers</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan> | <ns0:tspan class="keyColor">Lines of Code</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan> (<ns0:tspan class="addColor">TBC++</ns0:tspan>, <ns0:tspan class="delColor">TBC--</ns0:tspan>)
+</ns0:text>
 
-</svg>
+</ns0:svg>
